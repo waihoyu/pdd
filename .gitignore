@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+
+
+# add ignore files
+
+
+pdd/node_modules/
+pdd_server/node_modules/
+scroll-mobile/node_modules/
